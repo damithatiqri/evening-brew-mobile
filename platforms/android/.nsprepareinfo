@@ -1,0 +1,19 @@
+{
+	"time": "Thu Jun 06 2019 16:38:51 GMT+0530 (Sri Lanka Standard Time)",
+	"nativePlatformStatus": "3",
+	"bundle": true,
+	"release": false,
+	"changesRequireBuild": false,
+	"projectFileHash": "ef7d78a49f593e9c85eadd45183aa8a25bf4c87403e143a4c9f55bb2fde53d4b",
+	"changesRequireBuildTime": "Thu Jun 06 2019 15:40:52 GMT+0530 (Sri Lanka Standard Time)",
+	"appFilesHashes": {
+		"C:\\Projects\\EveningBrew\\NSPlayground_V0.2\\app\\app.css": "a6ad3c9bfc4fd0ab23ab2f71ab7aac3cef021cf3",
+		"C:\\Projects\\EveningBrew\\NSPlayground_V0.2\\app\\app.js": "36ad5eba618dcfa4a949d13431cef9b3a2e1af53",
+		"C:\\Projects\\EveningBrew\\NSPlayground_V0.2\\app\\components\\Home.vue": "173b2fbf9d9d7562582416cb1bfbf85f41d8865c",
+		"C:\\Projects\\EveningBrew\\NSPlayground_V0.2\\app\\components\\Login.vue": "3e49d62c4dd353a8625f2629025ba2cbc1d60efa",
+		"C:\\Projects\\EveningBrew\\NSPlayground_V0.2\\app\\components\\NewAppointment.vue": "ad71bab4b4bc0a9b1b3dfaa019acd1b1c087a1aa",
+		"C:\\Projects\\EveningBrew\\NSPlayground_V0.2\\app\\package.json": "9ad7a179be15f8040f5656476c1c697bde98d89a",
+		"C:\\Projects\\EveningBrew\\NSPlayground_V0.2\\app\\routes\\index.js": "786db6de98818f4c029a183ba0b9ba3a84408b71",
+		"C:\\Projects\\EveningBrew\\NSPlayground_V0.2\\app\\components\\beard.png": "f182b88ae1f796586da89975f78ba86eeddc016d"
+	}
+}
